@@ -15,4 +15,5 @@ Supported executors :
 
 Current Supported :
 * Scary Sushi (https://www.roblox.com/games/16454399300/)
+* Doors(W.I.P.) (https://www.roblox.com/games/6516141723/)
 * Universal
