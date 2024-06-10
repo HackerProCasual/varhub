@@ -11,3 +11,8 @@ Supported executors :
 * Arceus X
 * Codex
 * Wave (not released yet but it will work)
+
+
+Current Supported :
+* Scary Sushi (https://www.roblox.com/games/16454399300/)
+* Universal
