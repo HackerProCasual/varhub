@@ -6,6 +6,11 @@ discord is https://discord.gg/9x4dWmzPNa
 
 Check wiki section on how to run it
 
+loadstring is
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HackerProCasual/varhub/main/main"))()
+```
+
 Supported executors :
 * Solara
 * Arceus X
