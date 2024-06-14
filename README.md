@@ -17,4 +17,6 @@ Current Supported :
 * Scary Sushi (https://www.roblox.com/games/16454399300/)
 * Doors (https://www.roblox.com/games/6516141723/)
 * SCP:Anomaly Breach 2 (https://www.roblox.com/games/5771125545/)
+* The Strongest Battlegrounds (https://www.roblox.com/games/10449761463/)
+* The Exit 8 (https://www.roblox.com/games/16894230496/)
 * Universal
