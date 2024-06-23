@@ -24,4 +24,6 @@ Current Supported :
 * SCP:Anomaly Breach 2 (https://www.roblox.com/games/5771125545/)
 * The Strongest Battlegrounds (https://www.roblox.com/games/10449761463/)
 * The Exit 8 (https://www.roblox.com/games/16894230496/)
+* Rooms: Found Footage (https://www.roblox.com/games/13757888451/)
+* Incremental Stud Game (https://www.roblox.com/games/14463682120/)
 * Universal
