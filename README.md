@@ -26,4 +26,5 @@ Current Supported :
 * The Exit 8 (https://www.roblox.com/games/16894230496/)
 * Rooms: Found Footage (https://www.roblox.com/games/13757888451/)
 * Incremental Stud Game (https://www.roblox.com/games/14463682120/)
+* Friday Night Bloxxin (https://www.roblox.com/games/7603193259/)
 * Universal
